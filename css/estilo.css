@@ -1,0 +1,13 @@
+body{
+
+    background: rgba(0, 0, 0, 9);
+    margin: 0;
+    color: #fff;
+    font-family: open sans, sans, serif ;
+    
+}
+
+.menu{display: block;
+    padding: 15px 30px;
+
+}
